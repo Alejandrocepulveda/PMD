@@ -1,0 +1,13 @@
+E:\matriz2\matriz2\bin\Debug\matriz2.exe.config
+E:\matriz2\matriz2\obj\Debug\matriz2.csprojResolveAssemblyReference.cache
+E:\matriz2\matriz2\bin\Debug\matriz2.exe
+E:\matriz2\matriz2\bin\Debug\matriz2.pdb
+E:\matriz2\matriz2\obj\Debug\matriz2.exe
+E:\matriz2\matriz2\obj\Debug\matriz2.pdb
+D:\matriz2\matriz2\bin\Debug\matriz2.exe.config
+D:\matriz2\matriz2\bin\Debug\matriz2.exe
+D:\matriz2\matriz2\bin\Debug\matriz2.pdb
+D:\matriz2\matriz2\obj\Debug\matriz2.csproj.AssemblyReference.cache
+D:\matriz2\matriz2\obj\Debug\matriz2.csproj.CoreCompileInputs.cache
+D:\matriz2\matriz2\obj\Debug\matriz2.exe
+D:\matriz2\matriz2\obj\Debug\matriz2.pdb

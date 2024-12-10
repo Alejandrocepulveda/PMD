@@ -1,0 +1,14 @@
+C:\C#\Regresion_Lineal\bin\Debug\Regresion_Lineal.exe.config
+C:\C#\Regresion_Lineal\bin\Debug\Regresion_Lineal.exe
+C:\C#\Regresion_Lineal\bin\Debug\Regresion_Lineal.pdb
+C:\C#\Regresion_Lineal\obj\Debug\Regresion_Lineal.csproj.AssemblyReference.cache
+C:\C#\Regresion_Lineal\obj\Debug\Regresion_Lineal.csproj.CoreCompileInputs.cache
+C:\C#\Regresion_Lineal\obj\Debug\Regresion_Lineal.exe
+C:\C#\Regresion_Lineal\obj\Debug\Regresion_Lineal.pdb
+D:\Probabilidad\Regresion Lineal Jose Alejandro Cepulveda Fonseca\Regresion_Lineal\bin\Debug\Regresion_Lineal.exe.config
+D:\Probabilidad\Regresion Lineal Jose Alejandro Cepulveda Fonseca\Regresion_Lineal\bin\Debug\Regresion_Lineal.exe
+D:\Probabilidad\Regresion Lineal Jose Alejandro Cepulveda Fonseca\Regresion_Lineal\bin\Debug\Regresion_Lineal.pdb
+D:\Probabilidad\Regresion Lineal Jose Alejandro Cepulveda Fonseca\Regresion_Lineal\obj\Debug\Regresion_Lineal.csproj.AssemblyReference.cache
+D:\Probabilidad\Regresion Lineal Jose Alejandro Cepulveda Fonseca\Regresion_Lineal\obj\Debug\Regresion_Lineal.csproj.CoreCompileInputs.cache
+D:\Probabilidad\Regresion Lineal Jose Alejandro Cepulveda Fonseca\Regresion_Lineal\obj\Debug\Regresion_Lineal.exe
+D:\Probabilidad\Regresion Lineal Jose Alejandro Cepulveda Fonseca\Regresion_Lineal\obj\Debug\Regresion_Lineal.pdb

@@ -1,0 +1,6 @@
+E:\MatrizAleatorio\MatrizAleatorio\bin\Debug\MatrizAleatorio.exe.config
+E:\MatrizAleatorio\MatrizAleatorio\bin\Debug\MatrizAleatorio.exe
+E:\MatrizAleatorio\MatrizAleatorio\bin\Debug\MatrizAleatorio.pdb
+E:\MatrizAleatorio\MatrizAleatorio\obj\Debug\MatrizAleatorio.csprojResolveAssemblyReference.cache
+E:\MatrizAleatorio\MatrizAleatorio\obj\Debug\MatrizAleatorio.exe
+E:\MatrizAleatorio\MatrizAleatorio\obj\Debug\MatrizAleatorio.pdb
